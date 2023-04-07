@@ -1,0 +1,73 @@
+.s-wrapper{
+    width:100%;
+    height:100vh;
+    position: relative;
+    padding: 0px 30px;
+}
+.s-slider-wrapper{
+    width:100%;
+    height: 100vh;
+    position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.s-slider-left{
+    
+    height:100vh;
+    width: 40%;
+
+}
+.s-slider-left>h1{
+ font-size: 2.5rem;
+ font-weight: bold;
+  margin: 0;
+}
+.s-slider-left>span{
+ font-size: 2.5rem;
+ font-weight: bold;
+ color:var(--orange)
+ 
+}
+.s-slider-left>span{
+ font-size: 2.5rem;
+ font-weight: bold;
+ color:var(--orange)
+ 
+}
+.s-slider-left>p{
+ font-size: 0.8rem;
+ color:gray;
+width: 450px;
+ 
+ 
+}
+.s-slider-left>button{
+ margin-top: 20px;
+ 
+ 
+}
+.download-btn>a{
+     text-decoration: none;
+     color:white;
+}
+.download-btn>a:hover{
+     text-decoration: none;
+     color:var(--orange);
+}
+.card{
+    width: 60%;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column(2);
+    gap: 30px;
+    justify-content: space-between;
+    
+
+    
+}
+.middle{
+    
+}

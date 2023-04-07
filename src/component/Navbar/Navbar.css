@@ -60,7 +60,7 @@
     cursor:pointer;
     background-color: white;
     border: 1px solid var(--orange);
-    color:black;
+    color:var(--orange);
     width:fit-content;
     
  }
