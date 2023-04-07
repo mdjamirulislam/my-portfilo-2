@@ -1,0 +1,172 @@
+.l-home>h1{
+    font-size: 3rem;
+    font-weight: bold;
+    margin:0px;
+    /* font-family: 'Merriweather Sans', sans-serif; */
+}
+.l-home>span{
+    font-size: 3.0rem;
+    font-weight: 800;
+    color:var(--orange)
+}
+.home-wrapper{
+    width:100%;
+    padding:100px 0px
+}
+.home-slider-wrapper{
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+
+}
+.l-home{
+    width:50%;
+     
+}
+.l-home>p{
+    font-size: 14px;
+}
+.l-home>div>button{
+    margin-top: 20px;
+    box-shadow: 1px solid var(--orangeCard);
+}
+.l-home-social{
+   width:40px;
+    padding:5rem 0rem;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+   gap:2.5rem;
+
+
+}
+.l-home-social>img{
+    width:100%;
+    font-size: 10px;
+}
+/* image slider  */
+.r-home{
+    width:50%;
+    height: 100vh;
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* .r-home>div>img{
+    width:100%;
+    height:100vh;
+} */
+.victor1{
+    width: 81%;
+    position: absolute;
+    z-index: 10;
+    left: 0%;
+    top:0%;
+}
+.victor2{
+    width: 84%;
+    position: absolute;
+    z-index: 50;
+    left: 10%;
+    top: 0%;
+    font-size: 20px;
+    
+}
+.victor3{
+    width: 66%;
+    position: absolute;
+    z-index: 60;
+    top: -17%;
+    left: 22%;
+}
+.r-home-wrapper{
+    width:100%;
+    height: 100vh;
+}
+.victor1>img{
+    width:100%;
+}
+.victor2>img{
+    width:100%;
+}
+.victor3>img{
+    width:100%;
+}
+.color{
+    position:absolute;
+    right:-20%;
+    top:-10%;
+    width: 400px;
+    background-color:#a71ce00a;
+    height: 100vh;
+    border-radius:40%
+}
+.color1{
+    position:absolute;
+    left:-10%;
+    bottom:10%;
+    width: 200px;
+    background-color:#27cc2738;
+    height: 40vh;
+    border-radius:40%
+}
+.home-emojo{
+    position:relative;
+    width:100%;
+    height: 100vh;
+
+}
+.home-emojo>div:nth-child(1){
+    width: 200px;
+     z-index: 65;
+     position:absolute;
+     top:-15%;
+     left:-10%;
+    
+}
+.home-emojo>div:nth-child(2){
+    
+     z-index: 65;
+     position:absolute;
+     top:-3%;
+     right:-7%;
+     display: flex;
+     background-color: white;
+     border-radius: 10px;
+     justify-content: center;
+     flex-wrap:wrap;
+     align-items: center;
+     gap:10px;
+    
+}
+.home-emojo>div:nth-child(2)>img{
+    
+     width: 27%;
+    
+}
+.home-emojo>div:nth-child(3)>img{
+    
+     width: 27%;
+    
+}
+.home-emojo>div:nth-child(3){
+   
+     z-index: 65;
+     position:absolute;
+     bottom:36%;
+     left:-6%;
+     display: flex;
+
+     justify-content: center;
+     flex-wrap: wrap;
+     align-items: center;
+     gap:10px;
+     border-radius:10px;
+     background-color:white;
+    
+}
+
