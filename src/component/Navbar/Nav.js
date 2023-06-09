@@ -5,7 +5,7 @@ const Nav = () => {
     <div className="n-wrapper">
       <div className="l-nav">
         <div className="l-nav-left">
-          <h1 className="andrew">Andrew </h1>
+          <h1 className="andrew">jamirul </h1>
           <div className="dark">dark</div>
         </div>
         <div className="l-nav-right">
