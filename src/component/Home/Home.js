@@ -14,7 +14,7 @@ const Home = () => {
         {/* left side */}
         <div className="l-home">
           <h1>H'i I Am</h1>
-          <span>Andrew Thomas</span>
+          <span>Md Jamirul Khan</span>
           <p>
             Frontend Developer with high level of experience in web designing
             and development, producting the Quality work
